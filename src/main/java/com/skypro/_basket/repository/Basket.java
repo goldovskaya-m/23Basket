@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.List;
 
 @Component
-@SessionScope //Scope(prototype) 00:40:00 ол
+@SessionScope //Scope(prototype) 00:40:00 онлайн урок
 public class Basket {
     private final List<Integer> repository = new ArrayList<>();
 
